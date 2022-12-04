@@ -116,4 +116,4 @@ As final considerations:
 
 ### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
+Dany Koudede/ varsity Tutors Education Services © 2019. All Rights Reserved.
